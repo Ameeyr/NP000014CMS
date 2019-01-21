@@ -3,9 +3,9 @@
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
 
-define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
+define('DB_SERVER', 'mysqlameeyr.mysql.database.azure.com');
+define('DB_USERNAME', 'Ameeyr@mysqlameeyr');
+define('DB_PASSWORD', 'Incorrect369');
 define('DB_NAME', 'cloud');
  
 /* Attempt to connect to MySQL database */
